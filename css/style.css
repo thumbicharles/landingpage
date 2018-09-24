@@ -172,7 +172,9 @@ footer p {
     .showcase::after{
     height: 50vh;
 } 
-.navbar-nav{display: none;}
+.navbar-nav{
+
+    display: none float-left;}
 .content{
     top: 5%;
     margin-top: 5px;
